@@ -1,0 +1,41 @@
+{
+  "idToTestNameHash": {
+    "FrScTe1": "From Scratch Tests isRealPalindrome - checks for palindromes, ignores punctuation or capitalization",
+    "FrScTe2": "From Scratch Tests RunningTotal - increases the total with each value in the array",
+    "FrScTe3": "From Scratch Tests swap - swaps the first and last letter of each word, no punctuation used",
+    "FrScTe4": "From Scratch Tests wordSizes - returns an object of the length of each space separated set of characters",
+    "FrScTe5": "From Scratch Tests union - creates a new array made up of unique elements from both arrays",
+    "FrScTe6": "From Scratch Tests firstRecurring - returns the first character that gets repeated",
+    "FrScTe7": "From Scratch Tests showMultiplicativeAverage - returns multiplicative average as a string to 3 decimal points",
+    "FrScTe8": "From Scratch Tests multiplyList - 2 arrays are multiplied to return a new array of their products",
+    "FrScTe9": "From Scratch Tests sequence - generates an array from 1 to the number (inclusive)"
+  },
+  "testNameToIdHash": {
+    "From Scratch Tests isRealPalindrome - checks for palindromes, ignores punctuation or capitalization": "FrScTe1",
+    "From Scratch Tests RunningTotal - increases the total with each value in the array": "FrScTe2",
+    "From Scratch Tests swap - swaps the first and last letter of each word, no punctuation used": "FrScTe3",
+    "From Scratch Tests wordSizes - returns an object of the length of each space separated set of characters": "FrScTe4",
+    "From Scratch Tests union - creates a new array made up of unique elements from both arrays": "FrScTe5",
+    "From Scratch Tests firstRecurring - returns the first character that gets repeated": "FrScTe6",
+    "From Scratch Tests showMultiplicativeAverage - returns multiplicative average as a string to 3 decimal points": "FrScTe7",
+    "From Scratch Tests multiplyList - 2 arrays are multiplied to return a new array of their products": "FrScTe8",
+    "From Scratch Tests sequence - generates an array from 1 to the number (inclusive)": "FrScTe9"
+  },
+  "testScores": {
+    "From Scratch Tests": {
+      "FrScTe1": 0,
+      "FrScTe2": 0,
+      "FrScTe3": 0,
+      "FrScTe4": 0,
+      "FrScTe5": 0,
+      "FrScTe6": 0,
+      "FrScTe7": 0,
+      "FrScTe8": 0,
+      "FrScTe9": 0
+    }
+  },
+  "humanReadable": {
+    "From Scratch Tests": "0/9",
+    "finalTestScore": "FINAL SCORE: 0/9"
+  }
+}
